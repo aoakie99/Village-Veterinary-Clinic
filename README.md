@@ -1,3 +1,3 @@
 # Village-Veterinary-Clinic
 
-# coming soon to a browser near you
+# Coming soon to a browser near you
