@@ -1,0 +1,24 @@
+.shards-landing-page--1 .welcome::before {
+  background: rgba(102, 119, 137, .4);
+}
+
+.shards-landing-page--1 .section-title::after{
+  background: red;
+}
+
+.custom-navbar{
+  z-index: 10
+}
+
+.justify-content-right {
+    justify-content:right;
+}
+
+.spacer {
+  height:99px;
+  margin-top:-99px;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
